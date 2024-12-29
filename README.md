@@ -37,7 +37,7 @@
       "Installing rootkit...",
       "Encrypting files...",
       "Self-destruct sequence initiated. 😱",
-      "Just kidding! It's a prank!"
+      "Data extracted successfully "
     ];
 
     let index = 0;
